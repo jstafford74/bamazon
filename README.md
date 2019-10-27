@@ -2,10 +2,10 @@
 ## Overview
 
 This exercise has 3 sections: Customer, Supervisor & Manager.
-- [ ] Database Requirements:
-      1. Create a MySQL Database called `bamazon`.
-      2. Create a Table inside of that database called `products`.
-      - The products table should have each of the following columns:
+## Database Requirements:
+- [ ] 1. Create a MySQL Database called `bamazon`.
+- [ ] 2. Create a Table inside of that database called `products`.
+  - The products table should have each of the following columns:
 
    * item_id (unique id for each product)
 
