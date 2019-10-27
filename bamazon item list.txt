@@ -1,0 +1,11 @@
+item_id | product_name | department_name | price | stock_quantity | product_sales 
+ | paper Mate Gel Pens | Toys | 12.85 | 100
+ | DYMO Label Maker | Toys | 27.67 | 75
+ | Ring Floodlight Cam | electronics | 199.00 | 75
+ | Dash Cam | electronics | 33.99 | 100
+ | Wireless Wifi Camera | electronics | 67.99 | 55
+ | Kleenex Tissues | beauty | 3.10 | 200
+ | Native Deodorant | beauty | 25.20 | 100
+ | GoBetter Nail Clippers| beauty | 5.92 | 225
+ | Generac 2.2 Kw Generator | lawn & garden | 498.16 | 15
+ | Scotts Turf Builder Grass Seed | lawn & garden | 22.10 | 125
