@@ -72,22 +72,16 @@ Running this application will list a set of menu options:
 | 02            | Clothing        | 60000           | 100000        | 40000        |
 
    
-     -  The `total_profit` column should be calculated on the fly using the difference between `over_head_costs` and `product_sales`. `total_profit` should not be stored in any database. You should use a custom alias.
+-  The `total_profit` column should be calculated on the fly using the difference between `over_head_costs` and `product_sales`. `total_profit` should not be stored in any database. You should use a custom alias.
 
-   - 3. [ ] Create New Department
+   - 2. [ ] Create New Department
 
 
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
-
-   * Make sure your app still updates the inventory listed in the `products` column.
-
-6. If you can't get the table to display properly after a few hours, then feel free to go back and just add `total_profit` to the `departments` table.
-
-   * Hint: You may need to look into aliases in MySQL.
-
-   * Hint: You may need to look into GROUP BYs.
-
-   * Hint: You may need to look into JOINS.
-
-   * **HINT**: There may be an NPM package that can log the table to the console. What's is it? Good question :)
+### HINTS:
+  - Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
+  - Make sure your app still updates the inventory listed in the `products` column.
+  - You may need to look into aliases in MySQL.
+  - You may need to look into GROUP BYs.
+  - You may need to look into JOINS.
+  - There may be an NPM package that can log the table to the console. What's is it? Good question :)
 
