@@ -1,5 +1,5 @@
 item_id | product_name | department_name | price | stock_quantity | product_sales 
- | paper Mate Gel Pens | Toys | 12.85 | 100
+ | Paper Mate Gel Pens | Toys | 12.85 | 100
  | DYMO Label Maker | Toys | 27.67 | 75
  | Ring Floodlight Cam | electronics | 199.00 | 75
  | Dash Cam | electronics | 33.99 | 100
