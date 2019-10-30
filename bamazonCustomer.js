@@ -54,7 +54,7 @@ function listProducts(){
     })
 }
 
-function makePurchase(itemIds){
+function requestPurchase(itemIds){
     inquirer.prompt([
         {
             name: "itemId",
