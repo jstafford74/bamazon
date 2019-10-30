@@ -28,9 +28,9 @@ class DB {
  * Reads all items from the products table
  * @return {Promise}
  */
-  async getAllItems() {
-    this.conn.query(
-      'SELECT item_id,product_name, department_name, price, stock_quantity,product_sales FROM products'
+  getAllItems() {
+    return this.conn.query(
+      'SELECT item_id,product_name, department_name, price, stock_quantity FROM products'
 
     );
   }

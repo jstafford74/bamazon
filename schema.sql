@@ -77,3 +77,6 @@ CREATE TABLE products
   PRIMARY KEY
         ( department_id )
 );
+
+SELECT * FROM products
+GROUP BY department_name;

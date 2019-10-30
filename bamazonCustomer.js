@@ -28,14 +28,15 @@ connection.connect(function (err) {
 /**
   * Main entry point to app
   */
-//  async function run() {
-//     const db = new DB();
-//     await db.createConnection();
+
+//   async function run() {
+//      const db = new DB();
+//      await db.createConnection();
  
-//     listProducts();
-//   }
+//      db.getAllItems();
+//    }
   
-//   run();
+//    run();
 
 var items;
 var item;
@@ -53,7 +54,7 @@ function listProducts(){
     })
 }
 
-function requestPurchase(itemIds){
+function makePurchase(itemIds){
     inquirer.prompt([
         {
             name: "itemId",
